@@ -1,0 +1,12 @@
+[
+  {
+    "port": 135,
+    "status": "OPEN",
+    "banner": "No banner"
+  },
+  {
+    "port": 445,
+    "status": "OPEN",
+    "banner": "No banner"
+  }
+]
